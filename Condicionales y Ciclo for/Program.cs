@@ -21,8 +21,6 @@ namespace Condicionales_y_Ciclo_for
                 }
             }
             Console.ReadKey();
-
-            //Tarea, hacer un programa que lea un número y diga si es primo o no
         }
     }
 }
